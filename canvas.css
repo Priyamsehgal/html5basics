@@ -1,0 +1,8 @@
+#artboard {
+    width: 500px;
+    height: 200px;
+    background-color: burlywood;
+    border: 1px solid palevioletred;
+    border-radius: 10px;
+    box-shadow: 5px 5px lightblue;
+}

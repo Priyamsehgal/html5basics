@@ -1,0 +1,25 @@
+body{
+    background-color: pink;
+}
+h1{
+    color: brown;
+}
+div{
+    color: blue;
+    background-color: aqua;
+    border: 1px dotted red;
+}
+#dragStartdiv{
+    background-color: aqua;
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    border: 1px solid black;
+}
+#dragStop{
+    background-color: yellow;
+    width: 400px;
+    height: 500px;
+    float: right;
+    border: 1px solid green
+}
